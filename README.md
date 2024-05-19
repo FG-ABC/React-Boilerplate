@@ -1,17 +1,6 @@
-# React Boilerplate
+# Frontend Mentor - Rock, Paper, Scissors solution
 
-The boiler plate I use in making my react projects.
-
-### Features
-
-- Tailwind utility framework
-- Document/Class formatting with Prettier
-- Vite development server
-
-### Set up
-
-1. Install Dependencies by running the command: `npm i`
-2. Run the development server by running `npm run dev`. Server can be accessed at `localhost:5173`.
+This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -31,12 +20,12 @@ The boiler plate I use in making my react projects.
 
 ### Links
 
-- Challenge URL: [Frontend Mentor]()
-- Live Site URL: [Live URL]()
+- Challenge URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH)
+- Live Site URL- None: [Live URL]()
 
 ## My process
 
-I built this project with React and Tailwind CSS.
+Building this project with Reactjs and TailwindCSS
 
 ### Built with
 
